@@ -1,5 +1,0 @@
-client_id = "94taVQPfTa5-aA"
-client_secret = "fE4nDgbMsmMmU_puUZx_NRqVr_4"
-user_agent = "fetching and replying with nba data"
-username = "shitty_nba_stat_bot"
-password = "PASSWORD"
